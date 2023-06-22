@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fashion Days</string>
+    <string name="generic_message">There was an error with the request</string>
+    <string name="no_products_message">There are no products.</string>
+</resources>
